@@ -1,0 +1,146 @@
+{
+  "nome_completo": "Gilvanete Simplicio da Silva",
+  "o_que_eu_quero": "Eu desejo para a minha carreira todas as experiências que me levam a compreender um trabalho de equipe. Contribuir com Projetos Inovadores e acessar conhecimentos novos. Expandir meus horizontes com liberdade geográfica e financeira",
+  "cidade_estado:": "Farroupilha/RS",
+  "link_linkedin": "https://www.linkedin.com/in/gilvanete-silva/",
+  "link_github": "https://github.com/Giljared",
+  "email": "gmat337@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Graduada e pós-graduada em Matemática com Docência no Ensino Superior. Sou apaixonada por Tecnologia e sempre estive conectada a inovação. Acredito que a nossa jornada somos nós que desenhamos. E podemos sempre redefinir o curso de nossas vidas. As prioridades são demarcadas pelo interesse que vem de nossa própria alma.",
+    "Em 2020 eu assumi minha nova perspectiva de carreira. Decidi que iria mergulhar em um Bootcamp considerável e que fosse meu verdadeiro início na área de Front-End. Descobri a Reprograma! E este espaço me trouxe um divisor de águas! Sempre soube que sou multi funções e amo os desafios da inovação.",
+    "Eu curto muito diversos temas e sou bem eclética! Física Quântica e Barras de Access são temas mais recentes em minha apreciação. E, confesso, que esses temas me acordam para minha prórpria percepção interior. Porém, amo caminhar ao ar livre e conversar comigo mesma. Pode ser uma conversa em pensamentos ou mesmo com as inteligências que me cercam. Eu já percebi que sou ouvida mesmo que não entenda que sou! É uma coisa bem louca kkkk. Mas, me divirto comigo mesma. O bom humor é algo que me atrái. Impressiono-me com pessoas gentis e fáceis de soriso!",
+    "eu confio que existe espaço para todos. E como su ousada em acreditar em mim mesma, sei que o meu espaço já foi construído. Agora, acesso aquilo que eu mesma criei com minha mente, estudo, vontade, medos, anseios... seja o que for eu criei onde quero e desejo ficar. Por quanto tempo? O universo me dirá. Somos seres expansivos, logo, avançamos junto com o universo."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Front-End/Aluna",
+      "empresa": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "atividades_desenvolvidas": "Bootcamp: UX, Github, Html, CSS, JavaScript, React e Plano de Carreira",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Professora Matemática",
+      "empresa": "SESI RS",
+      "periodo": "Mar/2020 atual",
+      "atividades_desenvolvidas": "Ensino Médio e Profissionalizante (Robótica e Seminários para Formação do Trabalho)",
+      "link": "https://www.sesirs.org.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "UX, Github, Html, CSS, Javascript, React"
+    },
+    {
+      "curso": "JavaScript",
+      "instituicao": "Curso em Vídeo",
+      "periodo": "Out/2020 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "DOM, Condições, Repetições"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript",
+      "instituicao": "Rogério Mello",
+      "resumo_conhecimentos_interesses": "Sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Html, CSS",
+      "instituicao": "Gustavo Guanabara",
+      "resumo_conhecimentos_interesses": "Sintaxe moderna do Html 5 e CSS"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 7
+    }
+  ]
+}
