@@ -1,0 +1,146 @@
+{
+    "nome_completo": "Samanta Roberta da Silva",
+    "o_que_eu_quero": "Desejo me aperfeiçoar ainda mais na área,ter um ótimo desempenho,e seguir como uma excelente profissional",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/samanta-roberta-da-silva/",
+    "link_github": "https://github.com/saroberta",
+    "email": "saroberta27@yahoo.com.br",
+    "um_pouco_sobre_mim": [
+      "Tenho 42 anos,sou mãe de 3 filhas,casada, determinada, lutadora, vou em busca dos meus objetivos,muito otimista e abençoada por Deus.",
+      "Trabalho desde os 14 anos como menor aprendiz, depois como vendedora, digitadora, sou formada em fisioterapia desde 2004, e conclui minha pós recentemente, mas hoje meu interesse está em conhecer mais a área da tecnologia",
+      "Gosto muito de descansar nos momentos livres com miha família, ir a shoppings, viajar para praia e dormir",
+      "Meu propósito para o futuro é continuar otimista e buscar a estabilidade profissional e financeira."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Operadora de Processos e Seviços",
+        "empresa": "Itaú Unibanco",
+        "periodo": "Jun/2008 até o momento",
+        "atividades_desenvolvidas": "Compensação de cheques, análise de propostas de abertura de conta corrente, conferencia de dados e documentos, prevenção de riscos e perdas.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Operadora de Micro",
+        "empresa": "SC Informatica e Marketing Ltda",
+        "periodo": "Nov/1999 a Jun/2008",
+        "atividades_desenvolvidas": "Digitação de dados cadastrais,tabulação de  questionários de pesquisas, cadastro de informaçoes de cartas, e-mails, envelopamento, envio de receitas e malas direta.",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Desenvimento Front-End",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "Linguagens de programção como :HTML,CSS, Javascript,React, criação e desenvolvimento de sites."
+      },
+      {
+        "curso": "Fisoterapia cardio respiratória",
+        "instituicao": "Faculdade Inspirar",
+        "periodo": "Jan/2018 a Out/2019",
+        "resumo_conhecimentos_aprendidos": "Prevenção e tratamento fisioterapeutico voltados a parte respiratória em neonatal, pediatria e adulto."
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Aperfeiçoar aprendizado HTML,CSS,JS e React",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Avançar meu desenvolvimento em HTML,CSS,JS e React."
+      },
+      {
+        "interesse_evento_curso": "Cursos Python,SQL,SAS e Angular",
+        "instituicao": "Udemy",
+        "resumo_conhecimentos_interesses": "Entendimento e desenvolvimento"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "SASS",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JQUERY",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "BOOTSTRAP",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN",
+        "pontuacao": 2
+      },
+      {
+        "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "WORDPRESS",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "PHP",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "MySQL",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "FTP",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "PHOTOSHOP",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "ILUSTRATOR",
+        "pontuacao": 0
+      },
+      {
+        "habilidade_ferramenta": "INDESIGN",
+        "pontuacao": 0
+      }
+    ]
+  }
