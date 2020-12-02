@@ -1,0 +1,134 @@
+{
+  "nome_completo": "Ana Luiza Costa Lima",
+  "o_que_eu_quero": "Construir uma carreira sólida na área de TI. Buscando sempre aprender, adquirindo mais experiência e crescendo profissionalmente.",
+  "cidade_estado:": "Olinda/PE",
+  "link_linkedin": "https://www.linkedin.com/in/anamlcl/",
+  "link_github": "https://github.com/anamlcl",
+  "email": "costalima.ana@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou resiliente, determinada e busco, sempre que possível, encontrar uma solução para um determinado problema;",
+    "Sou bacharel em biologia e especialista em micologia, ambos pela Universidade Federal de Pernambuco (UFPE);",
+    "Sou fascinada por tecnologia e gosto sempre de estar informada sobre as novidades desse mercado, das possibilidades e impactos que a tecnologia proporciona na sociedade;",
+    "Poder participar da Reprograma foi o impulso que faltava para eu mergulhar de cabeça nessa área de programação e poder futuramente incentivar e ajudar outras meninas e mulheres a também ingressarem na área de tecnologia."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Technology Trainee",
+      "empresa": "parentsIN",
+      "periodo": "Ago/2020 até o momento",
+      "atividades_desenvolvidas": "Pesquisa sobre cloud, hospedagem, domínio, armazenamento; gerenciamento de CMS (WordPress); contato com suportes, clientes e prestadores de serviços; pesquisa, gerenciamento e postagens de conteúdo.",
+      "link": "https://parentsin.co/"
+    },
+    {
+      "cargo_funcao": "Assistente voluntária em pesquisa de graduação",
+      "empresa": "Faculdade Imaculada Conceição do Recife (FICR)",
+      "periodo": "Out/2019",
+      "atividades_desenvolvidas": "Auxílio na prestação de informação sobre os cursos de tecnologia oferecidos pela faculdade durante a Feira de Profissões Viva FICR.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e entrega de atividades semanais e mini projetos ao final de cada módulo utilizando: metodologia ágil, UX Design, HTML, CSS, Javascript, React, Git e Github."
+    },
+    {
+      "curso": "Sistemas para Internet",
+      "instituicao": "Faculdade Iamculada Conceição do Recife (FICR)",
+      "periodo": "Ago/2019 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e entregas semanais de funções do MVP do projeto idealizado para o semestre utilizando: metodologia ágil SCRUM, Trello, HTML, CSS, Materialize, Javascript, Git e Github."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "User Experience for Web Design",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o que significa experiência do usuário e como desenvolver um site que os usuários gostem de acessar e interagir."
+    },
+    {
+      "interesse_evento_curso": "UX Foundations: Accessibility",
+      "instituicao": "LinkedIn",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o que é acessibilidade e como ela afeta as pessoas com deficiência na web; os diversos conceitos de acessibilidade e o que eles significam para um designer; e como funcionam as diferentes tecnologias de assistência, as ferramentas que as pessoas com deficiência usam para navegar em um site ou aplicativo."
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação",
+      "instituicao": "Softblue Cursos Online",
+      "resumo_conhecimentos_interesses": "Entendimento sobre os conceitos fundamentais da lógica de programação: tipos de dados, variáveis, constantes, operadores, estruturas de controle e funções."
+    },
+    {
+      "interesse_evento_curso": "HTML Essential Training",
+      "instituicao": "LinkedIn",
+      "resumo_conhecimentos_interesses": "Entendimento sobre o que é e como funciona o HTML, sua sintaxe e a sua semântica; compreendendo quais são as melhores práticas a serem utilizadas ao criar e editar uma página HTML."
+    },
+    {
+      "interesse_evento_curso": "Introduction to CSS",
+      "instituicao": "LinkedIn",
+      "resumo_conhecimentos_interesses": "Noções básicas sobre como o CSS funciona com o HTML e com os navegadores; como o CSS está em constante evolução para nos dar ainda mais controle sobre a apresentação das páginas da web; quais as maneiras mais comuns em que o CSS é utilizado; os fundamentos da criação de layouts de páginas da web com CSS; conceitos de design responsivo da web, com uma abordagem inicial para dispositivos móveis e como usar consultas de mídia para personalizar o conteúdo da web para vários tamanhos de dispositivos."
+    },
+    {
+      "interesse_evento_curso": "Javascript Essential Training",
+      "instituicao": "LinkedIn",
+      "resumo_conhecimentos_interesses": "Introdução ao Javascript e às ferramentas utilizadas para trabalhar com essa linguagem, explorando conceitos como: variáveis, funções, objetos, métodos, eventos e lux."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "AMAZON WEB SERVICES (AWS)",
+      "pontuacao": 5
+    }
+  ]
+}
