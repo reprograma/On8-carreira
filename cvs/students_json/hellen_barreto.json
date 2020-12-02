@@ -1,0 +1,89 @@
+{
+  "nome_completo": "Hellen Catarina Martins Barreto Cruz",
+  "o_que_eu_quero": "Desenvolver minhas habilidades dentro da área de TI, sendo valorizada e desafiada. Obtendo crescimento mútuos dentro desta instituição.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/hellen-barreto/",
+  "link_github": "https://github.com/hellenbarreto",
+  "email": "hellenmarretob@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou focada e busco aprimorar meus conhecimentos com determinação. Autogestão é o que me define. Me considero organizada, sei trabalhar em equipe e gosto de explanar minhas ideias.",
+    "Sempre trabalhei na área administrativa, mas minha curiosidade como também reforçam as pessoas mais próximas descobri que possuo habilidades na área tecnológica. Percebi que tenho paixão neste universo de TI. Atualmente estou me qualificando para aprimimorar meus conhecimentos.",
+    "Gosto de navegar nas redes sociais, buscando notícias e informações, como também a interação social. Curto praia, séries e estar com amigos.",
+    "Tenho me encantado pelo universo da tecnologia e este curso da [reprograma] tem permitido que eu descubra minha verdadeira vocação e paixão."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente Administrativo",
+      "empresa": "Instituto Aliança com o Adolescente",
+      "periodo": "Mar/2016 até o momento",
+      "atividades_desenvolvidas": "Acompanhamento do desenvolvimento dos jovens atendidos no projeto; apoio ao coordenador local e nacional de gestão; suporte aos educadores providenciando materiais para aulas",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Digitador",
+      "empresa": "Instituto de Identificação Tavares Buril - IITB",
+      "periodo": "Set/2012 a Mar/2016",
+      "atividades_desenvolvidas": "Cadastro e organização de ficha de identificação civil; atendimento ao requerente e ao público em geral; agendamento de emissão registro civil.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente Administrativo",
+      "empresa": "Instituto de Medicina Integral Profº Fernando Figueira - IMIP",
+      "periodo": "Set/2010 a Set/2012",
+      "atividades_desenvolvidas": "Compras emergenciais, pesquisa e negociação com fornecedores de produtos e serviços; cadastro de produtos e fornecedores; analise e conferência de contas médicas, gerando relatórios analíticos dos dados.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-End",
+      "instituicao": "[reprograma]",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp com ênfase na inserção de mulheres no mercado de TI, através de formação de novas desenvolvedoras, com conhecimento em UX Design, HTML, CSS, JavaScript, Bootstrap, Lógica,  Jquery, React, projetos e orientação profissional."
+    },
+    {
+      "curso": "Gestão Estratégica em Negócios",
+      "instituicao": "UniFG",
+      "periodo": "Ago/2019 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Formar e desenvolver habilidades de gestão e empreendedorismo, a partir de uma visão estratégica integrada dos diversos aspectos da administração."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso ES6",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+   {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 6
+    }
+  ]
+}
