@@ -1,0 +1,156 @@
+{
+    "nome_completo": "Lohany Formiga Alves",
+    "o_que_eu_quero": "Quero crescer como Desenvolvedora Front-End e consegue a minha 1° oportunidade",
+    "cidade_estado:": "Recife-PE",
+    "link_linkedin": "https://www.linkedin.com/in/lohanyformiga/",
+    "link_github": "https://github.com/lohanyformiga",
+    "email": "lohany.formiga@hotmail.com",
+    "um_pouco_sobre_mim": [
+      "Sou Designer UI/UX e gosto muito de tecnologia e realizei sonho de me tornar desenvolvedora Front-End.",
+      "Formada em Design trabalho como UI/UX Designer, e imigrei para Desenvolvedora Front-End",
+      "Gosto de lê e aprender novas tecnologias",
+      "Quero me desenvolver e me capacitar como Desenvolvedora Front-End e crescer na área."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Design Gráfica",
+        "empresa": "Freelancer",
+        "periodo": "Jan/2017 a Maio/2018",
+        "atividades_desenvolvidas": "Criação de peças gráficas,Trabalhos para mídia digital,Criação de artes/layout para campanhas,Criação de identidade Visual,Edição de imagem e gerenciamento de redes sociais",
+        "https://www.behance.net/lohanyformiga/": null
+      },
+      {
+        "cargo_funcao": "Design de Interface",
+        "empresa": "Organizza Viagens",
+        "periodo": "Maio/2017 a Dez/2019",
+        "atividades_desenvolvidas": "Interfaces para web,Elaboração de projeto e pesquisa,Criação de identidade Visual,elaboração do projeto,Protótipos de baixa e alta fidelidade.",
+        "link": "https://www.behance.net/lohanyformiga"
+      },
+     
+       {
+        "cargo_funcao": "UI/UX Designer",
+        "empresa": "Advocacia",
+        "periodo": "Agosto/2019 a Dez/2020",
+        "atividades_desenvolvidas": " Meu papel é entender o problema e ter um processos e metologias voltadas ao UX, para encontrar uma solução para desenvolvimento do produto e atuando em todas as etapas desde do problema,Imersão,Hipóteses,Pesquisa, Benchmark,Ideação, Protótipo e teste e desenvolve alguns sites pelo wordpress",
+        "link": "https://lohanyformiga.medium.com/"
+      }     
+      
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "UX & Design Thinking: Experiencia do usuário",
+        "instituicao": "Udemy",
+        "periodo": "Outubro/2019",
+        "resumo_conhecimentos_aprendidos": "Processo para entender o usuario"
+      },
+      {
+        "curso": "Desenvolvimento Web",
+        "instituicao": "Udemy",
+        "periodo": "Jan/2020",
+        "resumo_conhecimentos_aprendidos": "Criação,e desenvolvimento web com as tecnologias: HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno), PHP 7, Orientação a Objetos, MySQL, PHP com PDO, Ajax, JQuery, MVC, APIs, IONIC, WordPress"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Bootcamp UX",
+        "instituicao": "How Bootcamps",
+        "resumo_conhecimentos_interesses":"focado na construção de habilidades essenciais para o futuro do trabalho na economia digital exponencial e no desenvolvimento produtos digitais"
+      },
+      {
+        "interesse_evento_curso": "Decola Dev Avanade",
+        "instituicao": "Avanade",
+        "resumo_conhecimentos_interesses": "Programa de estágio e linguagens de programação"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "SASS",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "JQUERY",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "NODE",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "BOOTSTRAP",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN",
+        "pontuacao": 10
+      },
+      {
+        "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "WORDPRESS",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "PHP",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "MySQL",
+        "pontuacao": 3
+      },
+      {
+        "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "FTP",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "PHOTOSHOP",
+        "pontuacao": 10
+      },
+      {
+        "habilidade_ferramenta": "ILUSTRATOR",
+        "pontuacao": 10
+      },
+      {
+        "habilidade_ferramenta": "INDESIGN",
+        "pontuacao": 10
+      }
+    ]
+  }
+  
