@@ -1,0 +1,80 @@
+{
+  "nome_completo": "Taline Joventino Peres dos Santos",
+  "o_que_eu_quero": "Desejo consolidar meus conhecimentos em React e JavaScript, consciliar com os estudos de Back-End da faculdade e gradativamente me tornar uma desenvolvedora FullStack",
+  "cidade_estado:": "Barreiros/Pe",
+  "link_linkedin": "https://br.linkedin.com/in/taline-joventino-aa18251b2",
+  "link_github": "https://github.com/talinejoventino",
+  "email": "taline_peres29@hotmail.com",
+  "um_pouco_sobre_mim": [
+    "Tenho 18 anos, sou completamente apaixonada pela tecnologia e como posso contribuir por meio dela para um mundo melhor. Sempre atenta as novas tecnologias e buscando aprender algo novo, além de ter empatia e amar ajudar quem precisa compartilhando meus conhecimentos. Sempre tive habilidade com matemática e lógica e pretendo usar isso ao meu favor durante a carreira. ",
+    "Passei no Enem 2020 no curso de Ciência da Computação, logo após terminar o Ensino Médio e devido a quarentena iniciei meus estudos com Python, e migrei para a parte de front-end devido ao Reprograma, onde passou a ser meu foco. ",
+    "Sou poetisa e ler é meu principal hobbie para que assim possa ter uma visão ainda mais ampliada sobre a sociedade e o mundo"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Em busca do primeiro emprego",
+      "empresa": null,
+      "periodo": null,
+      "atividades_desenvolvidas": "Front-End",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Ciência da Computação",
+      "instituicao": "Universidade Federal de Alagoas",
+      "periodo": "Set/2020 a --",
+      "resumo_conhecimentos_aprendidos": "Cursando"
+    },
+    {
+      "curso": "Reprograma",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, JavaScript e React"
+    },
+    {
+      "curso": "Introdução à Ciência da Computação com Python Parte 1 ",
+      "instituicao": "Coursera",
+      "periodo": "Cursando",
+      "resumo_conhecimentos_aprendidos": "Algorítmos, programas simples e lógica de pogramação"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Inglês",
+      "instituicao": "Auto didata",
+      "resumo_conhecimentos_interesses": "Conversação simples e tradução de textos"
+    },
+    {
+      "interesse_evento_curso": "Espanhol",
+      "instituicao": "Auto didata",
+      "resumo_conhecimentos_interesses": "Conversação simples e tradução de textos"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML"
+    },
+    {
+      "habilidade_ferramenta": "CSS"
+    },
+    {
+      "habilidade_ferramenta": "Python"
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT"
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB"
+    },
+    {
+      "habilidade_ferramenta": "Lógica de programação"
+    },
+    {
+      "habilidade_ferramenta": "REACT"
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE"
+    }
+  ]
+}
