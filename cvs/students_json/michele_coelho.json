@@ -1,0 +1,119 @@
+{
+    "nome_completo": "Maria Michele Coelho da Silva",
+    "o_que_eu_quero": "Tabalhar como desenvolvedora Front-End",
+    "cidade_estado:": "Jaboatão dos Guararapes/PE",
+    "link_linkedin": "https://www.linkedin.com/in/michele-coelho-5017aa79/",
+    "link_github": "https://github.com/micheleset7",
+    "email": "michelleset.pe@gmail.com",
+    "um_pouco_sobre_mim": [
+  
+      "Olá! Sou Michele, tenho 35 anos de idade e sou bastante curiosa. Sempre gosto de está buscando novos conhecimentos ou aprimorando.",
+      "Tenho formação acadêmica de bacharel em Turismo, com ele fiz estágio na DIP, empresa de dados/pesquisas,  também estagiei na Futebol Tour. Porém, antes cursei Transações Imobiliária e trabalhei na área como corretora de imóveis. Depois do curso de Turismo cursei o técnico em Telecomunicações, estagiei na Intelbras  depois de 3 anos do término do curso. Fiz o curso de Engenharia Elétrica, esse foi trancado no 9º período em 2019.2. Contudo, durante essas experiêcias, de ago/2013 á fev/2020 trabalhei como pesquisadora no Aroporto do Recife pela secretaria de tursimo de Pernambuco, a EMPETUR. E no meio de todo esse percurso descobri o gosto pela tecnologia, desde o curso de telecom, passando pela engenheria até hoje na reprograma, a área me fascina e me motiva a construir uma carreira de sucesso.",
+      "Nas horas que não estou pensando em estudo ou trabalho, gosto de curtir meu cachorrinho, está com minha família, ver os amigos, ler ou praticar alguma atividade física, ex: corrida ou futebol"
+  
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Estágio Técnico de Telecomunicações",
+        "empresa": "Intebras",
+        "periodo": "Mar/2019 a Set/2019",
+        "atividades_desenvolvidas": ": Analisar e reparar equipamentos, centrais telefônicos, telefones, CFTV e dar suporte técnico aos clientes.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Pesquisador",
+        "empresa": "Secretaria de Turismo de Pernambuco",
+        "periodo": "Ago/2013 a Fev/2020",
+        "atividades_desenvolvidas": "Realizar pesquisa recepitiva no Aeroporto Internacional do Recife com os passageiro do embarque e desembarque, nacional e internacional.",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Estágio Turismo",
+        "empresa": "Futebol Tour",
+        "periodo": "Mar/2014 a Abr/2015",
+        "atividades_desenvolvidas": " Fazer o Check In do roteiro do tour e guiar; dar apoio na organização de materiais de identificação do grupo; dar apoio no credenciamento do grupo; realizar atendimento ao público.",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Front End",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "HTML, CSS, Javascript e React"
+      },
+      {
+        "curso": "Engenharia Elétrica",
+        "instituicao": "UNINASSAU",
+        "periodo": "Ago/2015 - Atualmente trancado em 2019.2 - 9º Período",
+        "resumo_conhecimentos_aprendidos": "Bacharelado em engenharia elétrica"
+      },
+      {
+        "curso": "Técnico em Telecomunicações",
+        "instituicao": "SENAI/PE",
+        "periodo": "Ago/2014 a Mai/2016",
+        "resumo_conhecimentos_aprendidos": "Princípio de Telecomunicações, Infraestrutura de redes e sistemas de Telecomunicações..."
+      },
+      {
+        "curso": "Bacherelado em Turismo",
+        "instituicao": "UNINASSAU",
+        "periodo": "Ago/2011 a Dez/2014",
+        "resumo_conhecimentos_aprendidos": "Bacherelado em Turismo"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Code Like a Fullstack Girl",
+        "instituicao": "Digital Innovation One",
+        "resumo_conhecimentos_interesses": "front end, back end"
+      },
+      {
+        "interesse_evento_curso": "Tecnologia da Informação e Comunicação",
+        "instituicao": "Senai",
+        "resumo_conhecimentos_interesses": "hardware e softwere de computadores, rede e telemóveis"
+      },
+      {
+        "interesse_evento_curso": "Círculos de desenvolvedores da Bolsa de Estudos do Facebook",
+        "instituicao": "Platzi",
+        "resumo_conhecimentos_interesses": "Css, javascript, react, html"
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "BOOTSTRAP",
+        "pontuacao": 4
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 4
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN",
+        "pontuacao": 6
+      }
+    ]
+  }
