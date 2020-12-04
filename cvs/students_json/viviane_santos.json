@@ -1,0 +1,111 @@
+{
+  "nome_completo": "Viviane Silva Santos",
+  "o_que_eu_quero": "Busco novos desafios para a minha carreira porque quero continuar desenvolvendo minhas habilidades e colaborar com minha experiência para conquistar grandes resultados.",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/viviane-santos-64a1b21b2",
+  "link_github": "https://github.com/visilsan",
+  "email": "viviane.ssantosp@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou de Guarulhos, tenho 27 anos, sou muito organizada e prestativa, gosto de ajudar e ouvir as pessoas, tenho orgulho de quem eu sou e até onde cheguei ",
+    "Formada em pedagogia, trabalhei na area por 5 anos e resolvi sair para desbravar outros desafios. Hoje estou cursando Front end pela comunidade Reprograma.",
+    "Gosto de ouvir musica, assistir filmes e series de herois e amo fotografar ",
+    "Tenho em mim diversos sonhos e trabalho para realiza-los, pretendo me esforçar e procurar conhecimento cada vez mais."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Auxiliar Administrativo Junior-Poupatempo",
+      "empresa": "ALTERNATIVA SERVIÇOS E TERCEIRIZAÇÃO EM GERAL LTDA.",
+      "periodo": "Jan/2017 a Mai/2020",
+      "atividades_desenvolvidas": "Orientação e auxílio ao cliente, elaboração de documentos, desenvolvimento de planilhas de controle de atendimento, organização de informativos, treinamento de novos colaboradores e atendimento em libras. ",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Monitora- Acessa São Paulo",
+      "empresa": "Reprograma - Cliente Fulano",
+      "periodo": "Jan/2017 a Dez/2018",
+      "atividades_desenvolvidas": "Recepção do Cliente, auxiliar no uso da rede e inclusão digital. Emissão de documentos eletrônicos, elaboração de atividades para incentivo ao uso da internet de forma consciente. Treinamento de novos colaboradores, atualização de planilhas e organização de documentos",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Licenciatura em Pedagogia",
+      "instituicao": "Faculdade Anhanguera",
+      "periodo": "Jan/2013 a Dez/2017",
+      "resumo_conhecimentos_aprendidos": " Formação de profissionais para trabalhar com educação e aprendizagem"
+    },
+    {
+      "curso": "Técnico em Secretariado, Eventos e Assessoria ",
+      "instituicao": "ETEC de Artes",
+      "periodo": "Jan/2011 a Dez/2013",
+      "resumo_conhecimentos_aprendidos": " Conceitos de Administração, Comunicação e Informática."
+    },
+
+    {
+      "curso": "Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": " Criar a interface de utilização de um site ou aplicação web."
+    }
+ 
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+  
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+   
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 5
+    },
+ 
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 5
+    },
+    
+
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 5
+    },
+   
+    
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    }
+    
+  
+  ]
+}
