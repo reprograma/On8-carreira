@@ -1,0 +1,86 @@
+{
+  "nome_completo": "Sanmarah Machado da Silva",
+  "o_que_eu_quero": "Crescer profissionalmente na minha área de escolha, desenvolvendo minhas habilidades e adquirindo novos conhecimentos.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/sanmarah-machado-19490b196/",
+  "link_github": "https://github.com/SanmarahM",
+  "email": "sanmarahmachado@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma pessoa curiosa por isso estou sempre em busca de novos aprendizados e desafios.",
+    "Sou graduada em Design Gráfico e atualmente trabalho como designer gráfico freelancer, desenvolvendo trabalhos diversos nessa área.",
+    "Gosto de ler, estudar idiomas e culturas diferentes",
+    "Sempre fui apaixonada por tecnologia e curiosa pra saber mais sobre códigos. Poder fazer parte e aprender frontend na Reprograma foi uma oportunidade e experiência incrível!"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Designer Gráfico",
+      "empresa": "Freelance",
+      "periodo": "2018 a atualmente",
+      "atividades_desenvolvidas": "Convite e material de papelaria para aniversário, posts para as redes sociais, identidade visual",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Voluntário",
+      "empresa": "Instituição Religiosa",
+      "periodo": "2018 a atualmente",
+      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento de perfil em redes sociais, produção e edição de vídeo e material para mídias offline.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Design Gráfico",
+      "instituicao": "Instituto Federal de Pernambuco - IFPE",
+      "periodo": "Ago/2016 a Jul/2019",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    },
+    {
+      "curso": "Desenvolvimento Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "UX Design, Git/GitHub, HTML, CSS, Responsividade, Javascript, React"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 3
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 7
+    }
+  ]
+}
