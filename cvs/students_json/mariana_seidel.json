@@ -1,0 +1,93 @@
+{
+  "nome_completo": "Mariana de Albuquerque Seidel",
+  "o_que_eu_quero": "Aprimorar meus conhecimentos na área de front-end, buscando novas experiências e meios de aprendizagem.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/mariana-seidel-444023193/",
+  "link_github": "https://github.com/marianaseidel",
+  "email": "marianaaseidel@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou organizada, boa ouvinte, gosto de trabalhar em equipe e de ter planejamento nas coisas que faço.",
+    "Sou formada em Arquitetura e Urbanismo e estou começando a entrar na área de tecnologia por meio da Reprograma.",
+    "Gosto de me manter atualizada nas redes sociais e informada sobre temas/projetos que gerem impactos na cidade e na sociedade."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de places",
+      "empresa": "Incognia | In Loco",
+      "periodo": "Jun/2019 até o momento",
+      "atividades_desenvolvidas": "Qualificação da base de dados da empresa, por meio da análise de informações e distribuição de dados de forma integrada com outras equipes.",
+      "link": "https://www.inloco.com.br/"
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Detran-PE",
+      "periodo": "Jun/2015 a Mai/2017",
+      "atividades_desenvolvidas": "Estágio no setor de Engenharia de Tráfego na área de arquitetura e urbanismo, auxiliando nos desenhos de projeto de sinalização de trânsito.",
+      "link": "https://www.detran.pe.gov.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e entrega de atividades semanais fazendo uso de UX Design, HTML, CSS, Javascript, React, Git e Github."
+    },
+    {
+      "curso": "Arquitetura e Urbanismo",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Fev/2014 a Dez/2018",
+      "resumo_conhecimentos_aprendidos": "Conhecimentos de arquitetura, urbanismo e paisagismo"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online Gerenciamento de Espaço para Facilities",
+      "instituicao": "Universo Facilities",
+      "resumo_conhecimentos_interesses": "Conhecimentos a respeito de gerenciamento estratégico dos espaços de trabalho, avaliação de desempenho e qualidade dos espaços construídos, conhecimentos de normas para o ambiente de trabalho e formas de promover mais conforto e segurança para os usuários."
+    },
+    {
+      "interesse_evento_curso": "Curso online Módulo Inicial: Princípios de Psico+Neuro+Arquitetura",
+      "instituicao": "Neuroarq Academy / Qualidade Corporativa - Smart Workplaces",
+      "resumo_conhecimentos_interesses": "Conteúdos relacionados ao estudo da neurociência e arquitetura, relação do desenvolvimento humano com o ambiente, psicologia e ambiente, e conteúdos a respeito dos sentidos e percepções."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "AUTOCAD",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "SKETCHUP",
+      "pontuacao": 7
+    }
+  ]
+}
