@@ -1,0 +1,117 @@
+{
+  "nome_completo": "Darlene Pereira de Lima",
+  "o_que_eu_quero": "Crescer profissinalmente como Desenvolvedora front-end, desenvolver minhas skills e ser contratada por uma empresa que abraça causas e possui divesidade",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "www.linkedin.com/in/darlenepereira",
+  "link_github": "https://github.com/Lenny-inca",
+  "email": "darlene92pereira@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Profissional criativa, comunicativa, responsável, que adora ilustrar e aprender novas habilidades. Gosto de experimentar e estar sempre em contato com as novidades que acontecem no mundo e com as tendências do mercado. Tenho experiência na área da moda, tecnologia e Design. Na área da educação, possuo experiência em atendimento e pós-venda."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Web Designer",
+      "empresa": "Miess Moda Íntima",
+      "periodo": "12/2019 até 04/2020",
+      "atividades_desenvolvidas": 
+      "- Criação de Layout para campanhas On;
+      - Edição de imagens e mockups de produtos;
+      - Criação de texto e Layout para o Feed;
+      - Subir fotos dos produtos no FTP;
+      - Criação de Avatares da marca;
+      - Produção de moda;
+      -Sistemas : Vtex; Gemcomm, Pacote Adobe.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Representante de Admissões",
+      "empresa": "EBAC- Escola Britânica Criativas de Artes",
+      "periodo": "06/2019 - 10/2019",
+      "atividades_desenvolvidas": 
+      "Trabalho temporário com suporte na área de admisões de alunos e eventos externos, relatórios diários, organização e vendas.Tour guiada com candidatos, auxilio na recepção,elaboração de contratos e suporte a toda área administrativa.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Front-End",
+      "instituicao": "{Reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "UX/UI, HTML, CSS, JavaScript, React"
+    },
+    {
+      "curso": "Design Think",
+      "instituicao": "Centro Universitário Senac ",
+      "periodo": "04/2020 -Concluído",
+      "resumo_conhecimentos_aprendidos": "- Identificar oportunidades de ação e criação de projetos
+      - Aplicar os princípios do design thinking: empatia, colaboração e experimentação
+      - Usar o método Duplo Diamante: divergência e convergência; iteração e aplicabilidade
+      - Utilizar ferramentas de design para inspiração e aprofundamento, análise e síntese, reenquadramento de perspectivas, cocriação e prototipação de ideias
+      - Gerar e organizar ideias e encontrar soluções para os problemas de uma empresa ou organização
+      - Ter foco em ideias e soluções humanizadas
+      - Criar diagramas para apresentar e explicar ideias, propostas e soluções de maneira visual
+      - Testar, validar e experimentar ideias usando protótipos"
+    },
+    {
+      "curso": "Desenhista de Páginas para Web (Web Designer)",
+      "instituicao": "Faculdade  Senai Fateg",
+      "periodo": "05/2019 -Concluído",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, JavaScript, Edição de Imagens,  Capacidade Sociais, Organizativas e Métodoligias"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "UI Design",
+      "instituicao": "UIBoost",
+      "resumo_conhecimentos_interesses": "Designer de Interface"
+    },
+    {
+      "interesse_evento_curso": "Voluntária",
+      "instituicao": "WWCode Recife",
+      "resumo_conhecimentos_interesses": "Compartilhamento de conhecimentos de ferramentas de Front-end com outras mulheres da comunidade."
+    },
+    {
+      "interesse_evento_curso": "inglês",
+      "instituicao": "Cursando por conta",
+      "resumo_conhecimentos_interesses": ""
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML"
+    },
+    {
+      "habilidade_ferramenta": "CSS"
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT"
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB"
+    },
+    {
+      "habilidade_ferramenta": "REACT"
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS"
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE"
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN"
+    },
+    {
+      "habilidade_ferramenta": "UI DESIGN"
+    },
+    {
+      "habilidade_ferramenta": "Figma"
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP"
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR"
+    }
+  ]
+}
