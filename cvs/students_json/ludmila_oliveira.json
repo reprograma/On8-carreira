@@ -1,0 +1,103 @@
+{
+  "nome_completo": "Ludmila Pereira de Oliveira",
+  "o_que_eu_quero": "Me tornar uma execelente desenvolvedora Front-end e poder atuar em uma empresa que me proporcione um ambiente saudável e oportunidade de crescimento.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/ludmila-oliveira-3b79621b3/",
+  "link_github": "https://github.com/Ludmila-Oliveira",
+  "email": "ludsh220@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Uma profissional em transição de carreira para desenvolvedora Front-end. Em minha trajetória profissional adquiri e aprimorei habilidade em comunicação, organização, liderança, trabalho em grupo e autogerenciamento. Gosto de estudar sobre novos assuntos, exercitar minha criatividade e interagir com novas pessoas e culturas."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Nutricionista",
+      "empresa": "Meat Quality ",
+      "periodo": "Ago/2018 a Abr/2020",
+      "atividades_desenvolvidas": "Representante responsável por fornecer serviços de assessoria em qualidade e segurança alimentar; Acompanhamento da evolução de cada cliente através de visitas e emissão de relatórios; Realização de levantamento das necessidades do cliente; Elaboração e execução de treinamentos para funcionários atuantes, bem como, soluções para não conformidades nos procedimentos e reduções de desperdícios.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Nutricionista Consultora",
+      "empresa": "Casa de Bule Cafeteria e Restaurante",
+      "periodo": "Set/2016 a Out/2017",
+      "atividades_desenvolvidas": "Elaboração de estratégias junto ao cliente para reduzir despesas e atuar efetivamente em oportunidades de melhoria e acompanhamento de toda cadeia produtiva a fim de verificar desvios e corrigi-los.",
+      "link": null
+    }
+    {
+      "cargo_funcao": "Nutricionista",
+      "empresa": "GloriaMundi",
+      "periodo": "Jul/2015 a Fev/2017",
+      "atividades_desenvolvidas": "Capacitação dos funcionários envolvidos em toda a cadeia produtiva e gerenciamento simultâneo de três refeitórios do Grupo Pão de Açúcar, e atendimento e práticas de relacionamento com o cliente.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Curso de Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Github, HTML, CSS, JavaScript e React"
+    },
+    {
+      "curso": "Pós-Graduação em Controle de Qualidade dos Alimentos",
+      "instituicao": "IDE Cursos",
+      "periodo": "Jan/2016 a Jul/2017",
+      "resumo_conhecimentos_aprendidos": "Parâmentros de qualidade dos alimentos, segurança na manipulação dos alimentos, análise sensorial, legislação e diretrizes para fabricantes de alimentos, gerenciamento e análise das necessidades do cliente."
+    }
+    {
+      "curso": "Graduação em Nutrição",
+      "instituicao": "UNINASSAU",
+      "periodo": "Fev/2011 a Dez/2014",
+      "resumo_conhecimentos_aprendidos": "Boas práticas de fabricação de alimentos, nutrição clínica e particularidades das patologias, legilações voltadas para promoção da alimentação saudável, atuação da nutrição aliada ao execício físico."
+    }
+    {
+      "curso": "Curso Técnico em Comunicação Visual",
+      "instituicao": " ETEPAM",
+      "periodo": "Ago/2009 a Dez/2010",
+      "resumo_conhecimentos_aprendidos": "Prototipagem de embalagem para produtos, criação da identidade visual de um cliente, estratégias de promoção de um produto/marca, desenvolvimento de tipografia."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Idioma Inglês",
+      "instituicao": "Rhavi Carneiro's Fluency Academy",
+      "resumo_conhecimentos_interesses": "Cursando"
+    },
+    {
+      "interesse_evento_curso": "Voluntária",
+      "instituicao": "WWCode Recife",
+      "resumo_conhecimentos_interesses": "Compartilhamento de conhecimentos de ferramentas de Front-end com outras mulheres da comunidade."
+    },
+    {
+      "interesse_evento_curso": "Curso de Inteligência Emocional",
+      "instituicao": "Escola Conquer",
+      "resumo_conhecimentos_interesses": "Autogerenciar meus sentimentos e utilizá-los de forma mais inteligente."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+    },
+    {
+      "habilidade_ferramenta": "GITHUB",
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+    },
+    {
+      "habilidade_ferramenta": "CORELDRAW",
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+    }
+  ]
+}
