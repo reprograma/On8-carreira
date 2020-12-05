@@ -1,0 +1,134 @@
+{
+  "nome_completo": "Myrelle Sales Santos",
+  "o_que_eu_quero": "Me desenvolver como front-end, aprendendo sempre, visando adquirir conhecimentos de back-end. Busco estar inserida em empresas que valorizem a diversidade, trabalho em equipe, protagonismo de mulheres, crescimento profissional e programas de incentivo a inovação e idiomas.",
+  "cidade_estado:": "Francisco Morato/SP",
+  "link_linkedin": "https://www.linkedin.com/in/myrelle-sales-658983191/",
+  "link_github": "https://github.com/myrellesales",
+  "email": "myrelle.sales@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou fã de pessoas, inovação e arte. Comunicativa e com habilidades de liderança, estou sempre conectada a causas sociais e junto à associações sem fins lucrativos, colaboro voluntariamente em organização de eventos, treinamentos, triagens e funções administrativas.",
+    "Eu cursava Arquitetura e Urbanismo, e trabalhava na área de beleza para suprir os gastos com materiais na faculdade, até que entrei em uma busca por autoconhecimento. Durante esse processo surgiu um forte interesse por tecnologia, foi a partir dai que conheci a Reprograma, me identifiquei com a causa, o projeto e decidi migrar de área",
+    "Valorizo a representatividade e proporcionalismo de mulheres negras e diversas em todos os lugares. Busco na programação um meio de transformar a minha realidade e aumentar o protagonismo feminino na área de tecnologia.",
+    "Concorrer ao processo seletivo da Reprograma com mais de 2 mil candidatas e ter tido a oportunidade de participar desse bootcamp, me proporcionou esperanças reais de construir uma ponte sólida entre o meu desenvolvimento, o mercado de trabalho e o êxito profissional."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Assistente de Hair Stylist",
+      "empresa": "G.Vert Beauty Salon & SPA",
+      "periodo": "3 anos",
+      "atividades_desenvolvidas": "Atendimento ao público/cliente, negociação, vendas, auxílio de atividades práticas",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente de Hair Stylist",
+      "empresa": "Tamer Cabeleireiros Ltda Me (S.A.M Hair)",
+      "periodo": "8 meses",
+      "atividades_desenvolvidas": "Atendimento ao público/cliente, negociação, vendas, auxílio de atividades práticas",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Conceitos, técnicas, metodologias, lógica de programação, UX Design, HTML, CSS, Javascript, Git e Github, React. Todos os conteúdos foram realizados projetos semanais com o intuito de aplicar o aprendizado"
+    },
+    {
+      "curso": "Arquitetura e Urbanismo",
+      "instituicao": "Universidade São Judas Tadeu (USJT)",
+      "periodo": "FEV/2019 a Jul/2019",
+      "resumo_conhecimentos_aprendidos": "Desenho técnico, Topografia, Projetos arquitetônicos, Desenho Técnico no AutoCad, entre outros."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Web Front End",
+      "instituicao": "Let's Code",
+      "resumo_conhecimentos_interesses": "Conceitos, técnicas, metodologias, lógica de programação, HTML, CSS, Javascript, React. Todos os conteúdos foram realizados exercícios/exemplos a cada aula com o intuito de aplicar o aprendizado"
+    },
+    {
+      "interesse_evento_curso": "We Design Completo",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": "Teoria do Design, Tipografia, grid, conceito de UX/UI design, Adobe XD, arquitetura da informação, usabilidade, otimização, wiframe e básico de codificação(HTML, CSS, JS), Domínio, Hospedagem, Analytics"
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação",
+      "instituicao": "Gustavo Guanabara/Curso em vídeo",
+      "resumo_conhecimentos_interesses": "Conceitos de lógica de programação, algoritimos, variáveis, constantes, tipos de dados, operadores, estruturas, blocos de código e funções."
+    },
+    {
+      "interesse_evento_curso": "JavaScript e ECMAScript ",
+      "instituicao": "Gustavo Guanabara/Curso em vídeo",
+      "resumo_conhecimentos_interesses": "Conceitos e diferenças entre um e outro, funções, estrutura, bloco de códigos, DOM, constantes, váriaveis, entre ooutros."
+    },
+    {
+      "interesse_evento_curso": "React Completo",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": "Hooks, React Router, usContext, CSS Modules, PropTypes, Componetes Funcionais, Propriedades e Eventos"
+    },
+    {
+      "interesse_evento_curso": "Bootstrap 4",
+      "instituicao": "Origamid",
+      "resumo_conhecimentos_interesses": "Bootstrap, Grid, Modal, Carrossel"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "AMAZON WEB SERVICES (AWS)",
+      "pontuacao": 
+    }
+  ]
+}
