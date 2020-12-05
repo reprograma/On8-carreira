@@ -1,0 +1,139 @@
+{
+    "nome_completo": "Ana Carolina Cantanhêde Ambrósio",
+    "o_que_eu_quero": "Continuar estudando e me aperfeiçoando nas áreas correlatas a design, sentindo que minha criação tem seu espaço, seu tempo e sua importância na nossa geração",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/ana-ambrosio",
+    "link_github": "https://github.com/anaambrosio",
+    "email": "carolsambrosio@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Oi, sou a Ana Ambrósio, estudante de front-end e nas horas vagas sou organizadora de um coletivo feminista.;",
+      "Sou uma profissional que em seu trabalho abrange arte, direção criativa, design.;",
+      "Quero ser uma das pontes de construção de novas narrativas para as diversas frentes da comunidade negra, utilizando o design e o front-end como ferramenta de voz.;"
+    ],
+    "no_que_ja_trabalhei": [
+        {
+            "cargo_funcao": "Estagiária de Comunicação",
+            "empresa": "Assembleia Legislativa do Estado de São Paulo",
+            "periodo": "Fev2018 - Jul/2081",
+        "atividades_desenvolvidas": " Diagramação de texto para jornal, incluindo verificação e criação de peças de divulgação e sinalização (banners e faixas para eventos, imagens para reedes sociais, placas de sinalização)",
+            "link": "https://www.al.sp.gov.br/"
+          },
+      {
+        "cargo_funcao": "Estagiária de Marketing",
+        "empresa": "Creditoo/Creditas",
+        "periodo": "Mai2019 - Ago/2020",
+        "atividades_desenvolvidas": "Elaboração e divulgação de campanhas e peças publicitárias, envolvendo ações de criação, produção, lançamento e exibição na mídia;",
+        "link": "https://www.creditas.com/"
+      },
+      {
+        "cargo_funcao": "Assistente de arte",
+        "empresa": "Creditas",
+        "periodo": "Ago/2020 - até o momento",
+"atividades_desenvolvidas": "Desenvolvimento de conceitos visuais, peças e campanhas online e/ ou offline. Manipulação, alteração, diagramação e correção de imagens;",
+        "link":  "https://www.creditas.com/"
+      }
+    ],
+    "o_que_ja_estudei": [
+        {
+        "curso": "Técnico em Comunicação Visual",
+        "instituicao": "Senac",
+        "periodo": "Fev/2017 a Jul/2018",
+        "resumo_conhecimentos_aprendidos": "Desenvolvimento das técnicas apropriadas para a produção de projetos de comunicação visual e as características de cada processo de impressão para a reprodução adequada de ilustrações, tipografias e identidade visual em peças como livros, portais, painéis, folders e jornais."
+        },
+        {
+        "curso": "Qualificação Técnica em Produção e Design para Web",
+        "instituicao": "Senac",
+        "periodo": "Jul/2018 a Dez/2018",
+        "resumo_conhecimentos_aprendidos": "Qualificação no planejamento, desenvolvimento e implementação de produtos para web e mídias digitais, considerando o tratamento de imagens digitais, a construção de arquivos vetoriais, a composição de layouts multiplataforma e a edição de vídeo, de acordo com as tendências vigentes e as linguagens front-end."
+        },
+        {
+        "curso": "After Effects e Premiere CC - Edição, Motion e Efeitos para Vídeo",
+        "instituicao": "Senac",
+        "periodo": "Fev/2019 a Mar/2019",
+        "resumo_conhecimentos_aprendidos": "Edição e finalização de vídeos, utilizando recursos do Adobe Premiere, criação e aplicação de efeitos especiais e animações de elementos em vídeos, utilizando recursos do Adobe After Effects."
+        },
+        {
+        "curso": "Técnico em Publicidade",
+        "instituicao": "Senac",
+        "periodo": "Abr/2019 a Ago/2020",
+        "resumo_conhecimentos_aprendidos": "Desenvolvimento de campanhas publicitárias, estudando sobre as atividades diárias do atendimento e gestão do cliente."
+        },
+        {
+        "curso": "Desenvolvimento Front-end",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "Desenvolvimento e entrega de atividades semanais e mini projetos ao final de cada módulo utilizando: metodologia ágil, UX Design, HTML, CSS, Javascript, React, Git e Github."
+       }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "User Experience Design",
+        "instituicao": "Tera",
+        "resumo_conhecimentos_interesses": "Compreensão de métodos ágeis e as oportunidades que um(a) UX Designer tem ao conhecer a fundo seus usuários."
+      },
+      {
+        "interesse_evento_curso": "Graduação em Design Gráfico",
+        "instituicao": "Belas Artes",
+        "resumo_conhecimentos_interesses": "Desenvolvimento e execução de projetos visuais para veiculação em mídias impressas e plataformas digitais."
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 5
+      },
+      {
+        "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "PHOTOSHOP",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "ILLUSTRATOR",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "INDESIGN",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "AFTER EFFECTS",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "PREMIERE",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "FIGMA",
+        "pontuacao": 7
+      }
+    ]
+  }
+  
