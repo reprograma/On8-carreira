@@ -1,0 +1,120 @@
+{
+  "nome_completo": "Jéssica Rayanne Guerra da Silva",
+  "o_que_eu_quero": "Desejo aprofundar meus conhecimentos nas areas de Marketing e UX Desing e correr atrás da minha primeira experiência como Desenvolvedora",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/jessicarguerra/",
+  "link_github": "https://github.com/jessicarguerra",
+  "email": "jrayanneguerra@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sempre fui uma pessoa apaixonada por aprender e motivada por desafios, isso me levou às mais diversas áreas do conhecimento, e só no ínicio de 2020 eu pude perceber que a área de Tecnologia me permite explorar meu potencial ",
+    "Sou ex-estudante de Licenciatura em História, com experiência em educação museal, divulgação científica, especialmente Astronomia, sou bastante criativa, conectada e curiosa, e reconhecer isso me deu a força que faltava pra eu decidir mudar de área.",
+    "Atualmente sou estudante de Ciências do Consumo, curso no qual me encontrei e tenho explorado a área de Tecnologia, Economia Criativa e Redes sociais",
+    "Adoro conversar sobre minhas paixões e o mundo e acredito que minhas escolhas/trabalho contribuem para um mundo melhor"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiário Educador",
+      "empresa": "Museu Paço do Frevo, ",
+      "periodo": "Set/2018 a Nov/2018",
+      "atividades_desenvolvidas": "Recepcionar os visitantes; explicar as exposições; apresentar o museu; receber grupos e escolas; fazer a mediação pelo museu.",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Ciências do Consumo",
+      "instituicao": "Universidade Federal Rural de Pernambuco",
+      "periodo": "Dez/2020 à Dez/2024",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    },
+    {
+      "curso": "Desenvolvimento Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Jan/2015 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Digibuzz: Treinamento digital e criativo",
+      "instituicao": "Beta.Lab financiado pela Funcultura",
+      "resumo_conhecimentos_interesses": "Metodologia Canvas, marketing digital"
+    },
+    {
+      "interesse_evento_curso": "Gestão de Mídias Sociais",
+      "instituicao": "Rock Content",
+      "resumo_conhecimentos_interesses": "Gerenciamento de postagens, análise de métricas"
+    },
+    {
+      "interesse_evento_curso": "Design Thinking",
+      "instituicao": "GEAD- Centro Paula Souza",
+      "resumo_conhecimentos_interesses": "Resolução de problemas à base do Design Thinking"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CANVA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "INSTAGRAM",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "FACEBOOK",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "LINKEDIN",
+      "pontuacao": 6
+    }
+  ]
+}
