@@ -1,0 +1,116 @@
+{
+  "nome_completo": "Deliany Cristina Dias Leite",
+  "o_que_eu_quero": "Construir uma carreira sólida na área de TI. Buscando sempre aprender, adquirindo mais experiência e crescendo profissionalmente.",
+  "cidade_estado:": "Osasco/SP",
+  "link_linkedin": "www.linkedin.com/in/cris-leite-2b5bb1170",
+  "link_github": "https://github.com/Cristinadl1",
+  "email": "cristinad.leite@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Gosto de estudar, aprender conhecer coisas novas. Gosto de tecnologia, mas principalmente gosto de pessoas",
+    "Amei estudar programação quero me aprofundar daqui para frente cada vez mais, ao longo do curso estive estudando outras metodologias também;",
+    "Quero levar minhas amigas de classe para vida amei a oportunidade de participar desse projeto tão lindo, e apesar de estarmos em quarentena quero entra-las pessoalmente algum dia."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de crédito Imobiliário",
+      "empresa": "Direções Imobiliária",
+      "periodo": "06/2016 ",
+      "atividades_desenvolvidas": " Análise do contrato de compra e venda dentro do Programa de Habitação vigente para esclarecimentos ao
+      comprador INCC e Evolução de Obra - Explicar o que é a parcela paga para Caixa Econômica Federal durante o
+      período obra quando se compra um imóvel na planta e o financiamento já é assinado.
+      ● Controle de processos de Registro e Incorporação imobiliária
+      ● Análise documental necessária para comprovação de capacidade financeira para pagamento das parcelas
+      Incorporador durante obra.( Tipos de documentos: RG, CPF, Endereço, Estado Civil, Renda e Imposto de
+      Renda)."
+      "link": "http://www.direcoesconsultoria.com.br/"
+    },
+    {
+      "cargo_funcao": "Analista de crédito Imobiliário",
+      "empresa": "SF consultoria Imobiliária",
+      "periodo": "08/2015 - 06/2016",
+      "atividades_desenvolvidas": "Controle de processos de Registro e Incorporação imobiliária; Elaboração e registro de Atas inerentes aos Condomínios; Solicitação de pagamentos através de pedido de
+      compra e sistema Sienge; Controle do fundo fixo jurídico; Elaboração de documentos de apoio junto ao departamento de NEGÓCIOS e outros, inerente as aprovações e registros dos projetos dos empreendimentos.",
+      "link": "http://www.sfconsultoriaimobiliaria.com.br/" 
+       }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "ano 2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de projetos ao final de cada módulo utilizando UX Design, HTML, CSS, Javascript, React, Git e Github."
+    },
+    {
+      "curso": "Analise e Desenvolvimento de Sistema",
+      "instituicao": "Universidade Cruzeiro do Sul",
+      "periodo": "primeiro semestre",
+      "resumo_conhecimentos_aprendidos": "Tenho Aprendido sobre desenvolvimento de software e linguagem de programação."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Metodologias Agéis e Gestão de Projetos",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Aprendi sobre os frameworks scrum para gerencias projetos complexos ."
+    }
+    
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "AMAZON WEB SERVICES (AWS)",
+      "pontuacao": 5
+    }
+  ]
+}
