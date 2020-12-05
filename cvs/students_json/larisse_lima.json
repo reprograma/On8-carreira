@@ -1,0 +1,111 @@
+{
+  "nome_completo": "Larisse Almeida Pereira de Lima",
+  "o_que_eu_quero": "Me tornar uma desenvolvedora sênior de sucesso",
+  "cidade_estado:": "Recife/Pe",
+  "link_linkedin": "https://www.linkedin.com/in/larisselima/",
+  "link_github": "https://github.com/LarisseLima",
+  "email": "larisse.lima2@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Oi sou a Larisse, Apaixonada por tecnologia e unicórnios.Trabalhei na área industrial, e com vendas. Entrei na área de tecnologia,quando conheci o git,sou curiosa e queria aprender sobre ele. Já fui voluntária em um projeto acadêmico, onde ensinava informática a comunidade carente."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Ajudante de Montagem",
+      "empresa": "Mectronic",
+      "periodo": "Jan/2019 a Mar/2020",
+      "atividades_desenvolvidas": "Montagem de tomadas no geral"
+    },
+    {
+      "cargo_funcao": "Consultora de Imóveis",
+      "empresa": "Villas Imóveis",
+      "periodo": "Out/2018 a Dez/2018",
+      "atividades_desenvolvidas": "Vendas de imóveis na região metropolitana do Recife"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Bootcamp Desenvolvimento Frontend",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e entrega de atividades semanais e mini projetos ao final de cada módulo com mentorias, metodologia ágil, UX Design, HTML, CSS, Javascript, React, Git e Github."
+    },
+    {
+      "curso": "Curso Desenvolvimento Web Moderno com JavaScript",
+      "instituicao": "Udemy",
+      "periodo": "Mai/2020 até o momento",
+      "resumo_conhecimentos_aprendidos": "Programação web, com JavaScript, React, Angular,Node"
+    },
+    {
+      "curso": "Curso Profissional em Tecnologia da informação e Comunicação",
+      "instituicao": "Senai",
+      "periodo": "14h,2020",
+      "resumo_conhecimentos_aprendidos": "Conteúdo sobre a área de tecnologia e comunicação"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso Excel completo",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Excel do básico ao avançado"
+    },
+    {
+      "interesse_evento_curso": "Curso de Java",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre Java e programação Orientada a objetos"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "ANGULAR 9",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "JAVA",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MYSQL",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "SQLITE",
+      "pontuacao": 6
+    }
+  ]
+}
