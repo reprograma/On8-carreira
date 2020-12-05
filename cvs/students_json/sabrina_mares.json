@@ -7,7 +7,7 @@
   "email": "sabrsgomes@gmail.com",
   "um_pouco_sobre_mim": [
     "Tenho 22 anos, sou da zona leste de SP. Estudo Design Gráfico e Front-End.",
-    "Sou completamente apaixonada pelos campos criativos e busco sempre aprender novas, isso me levou a interesses na área de arte, design e tecnologia. Estou sempre em busca de aprender coisas novas.",
+    "Sou completamente apaixonada pelos campos criativos e busco sempre aprender novas, isso me levou a interesses na área de arte, design e tecnologia.",
     "Eu gosto muito de fazer arte, seja desenhar, pintar, escrever, codar, fotografar, bordar, etc."
   ],
   "no_que_ja_trabalhei": [
@@ -44,7 +44,7 @@
       "curso": "Desenvolvimento Front-End",
       "instituicao": "{reprograma}",
       "periodo": "Ago/2020 a Dez/2020",
-      "resumo_conhecimentos_aprendidos": "HTML, CSS, JavaScript, React, UX Design, Git e GitHub"
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, JavaScript, React, UX Design, Git e GitHub."
     },
     {
       "curso": "Técnico em Comunicação Visual",
