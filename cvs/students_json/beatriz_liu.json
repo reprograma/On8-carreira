@@ -1,0 +1,93 @@
+{
+  "nome_completo": "Beatriz Liu Bernardo",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia e desenvolvimento front-end, resolvendo problemas e encontrando soluções que melhorem o cotidiano das pessoas.",
+  "cidade_estado:": "Recife/PE",
+  "link_linkedin": "https://www.linkedin.com/in/beatriz-liu-a54193150/",
+  "link_github": "https://github.com/beatrizliu",
+  "email": "beatrizliu.br@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Um dos meus projetos de vida é conseguir me desafiar e crescer na área de tecnologia - como desenvolvedora - e vi no Reprograma uma oportunidade de dar um start nesse objetivo. Inspirada pela rede de colaboratividade e sororidade criada pelo programa, sinto que aqui é um lugar seguro para poder aprender e compartilhar o conhecimento, ao lado de mulheres incríveis que estão dispostas a impactar e transformar a realidade e pessoas a sua volta.",
+    "Sou atual estudante de administração na Universidade Federal de Pernambuco, atuei como gerente de produto do CITi, empresa júnior da UFPE, e atualmente sou estagiária de produtos digitais na empresa Avantia, líder de soluções em segurança.",
+    "Tenho 22 anos e gosto muito de passar o tempo com minha família e amigos, amo felinos (tenho 2 gatos e 2 cachorros), amo passar o tempo lendo e também curto muito trabalhos voluntários!",
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Estagiária de Produtos Digitais",
+      "empresa": "Avantia Tecnologia e Segurança",
+      "periodo": "Out/2020 - atual",
+      "atividades_desenvolvidas": "Definir em conjunto com o gerente, as expectativas de entrega de novas funcionalidades. Acompanhar metas e medir o resultado das melhorias implementadas de forma a produzir um ciclo de aprendizado e evolução constantes e auxiliar na elaboração de histórias de usuário. Interagir com clientes, com o intuito de realizar pesquisas qualitativas e saber analisar uma pesquisa quantitativa, incluindo testes de usabilidade",
+      "link": "https://www.avantia.com.br/"
+    },
+    {
+      "cargo_funcao": "Gerente de Produto",
+      "empresa": "CITi - Centro Integrado de Tecnologia da Informação / UFPE",
+      "periodo": "Mar/2019 a Nov/2019",
+      "atividades_desenvolvidas": "Atuar no discovery do produto liderando e auxiliando o time a chegar nas melhores alternativas. Fornecer visão e direção do produto aos projetos de concepções. Priorizar hipóteses, problemas e soluções e trabalhar em conjunto com Engenharia e UX. ",
+      "link": "https://citi.org.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Curso de Product Manager e Product Discovery",
+      "instituicao": "Cursos PM3",
+      "periodo": "Jul/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Definir o mercado, o público-alvo, a estratégia de go-to-market, a proposta de valor, o problema a ser resolvido, encontrar o market-fit, definir o roadmap de desenvolvimento do produto e, em última instância, garantir que os produtos da empresa tenham sucesso."
+    },
+    {
+      "curso": "Curso de Front-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "O conteúdo do bootcamp, focado na formação de mulheres front-end developers inclui UX Design, HTML, CSS, JavaScript, React, projetos desafiadores, aulas de empreendedorismo e orientação profissional."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Professora Voluntária Pré-Enem Mar/2019-Nov/2019",
+      "instituicao": "Centro de Educação Comunitária Gabriela Feliz",
+      "resumo_conhecimentos_interesses": "Fui professora voluntária para o vestibular Enem, nas matérias de Sociologia e Filosofia"
+    },
+    {
+      "interesse_evento_curso": "Pesquisadora PIBIQ Abr/2018-Dez/2019",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "resumo_conhecimentos_interesses": "Responsável por realizar pesquisas científicas nas áreas de conhecimento voltadas à administração, reforma trabalhista, sentidos do trabalho e pejotização. O projeto realizado detém de qualidade acadêmica, mérito científico e orientação adequada pela professora e chefe do departamento de Administração da UFPE, Débora Paschoal."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "MANDARIM",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "ADOBE XD",
+      "pontuacao": 7
+    },
+  ]
+}
