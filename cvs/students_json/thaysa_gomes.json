@@ -1,0 +1,83 @@
+{
+    "nome_completo": "Thaysa Carla Gomes da Silva",
+    "o_que_eu_quero": "Desenvolver o meu conhecimento em Front-end e UX/UI Design.",
+    "cidade_estado:": "Recife/PE",
+    "link_linkedin": "https://www.linkedin.com/in/tcgms/",
+    "link_github": "https://github.com/thaysagomes",
+    "email": "thaysacgms@gmail.com",
+    "um_pouco_sobre_mim": [
+      "Me considero bastante curiosa, e por isso, além de estudar sobre o desenvolvimento Front-end, me interesso por entender os processos do UX/UI Design e Ilustração, estudando de forma autodidata."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "UX/UI Designer",
+        "empresa": "gStudio",
+        "periodo": "Ago/2020 até o momento",
+        "atividades_desenvolvidas": "Criação de UI e organização do Design System.",
+        "link": "https://gstudioapp.com/"
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Instituto Federal de Pernambuco",
+        "periodo": "Fev/2019 até o momento",
+        "resumo_conhecimentos_aprendidos": "Desenvolvimento e entregas semanais de funções do MVP do projeto idealizado para o semestre utilizando: metodologia ágil SCRUM, Trello, HTML, CSS, Materialize, Javascript, Git e Github."
+      },
+      {
+        "curso": "Desenvolvimento Front-end",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "UX/UI, Git, HTML, CSS, Responsividade, JavaScript e React.js"
+      },
+      {
+        "curso": "Workshop - Women Dev Projects",
+        "instituicao": "Women Who Code Recife",
+        "periodo": "Jun/2019 a Ago/2019",
+        "resumo_conhecimentos_aprendidos": "UX/UI, Git, HTML, CSS, Responsividade, Javascript e React.js"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "UI Boost",
+        "instituicao": "Insany Design",
+        "resumo_conhecimentos_interesses": "Conhecimento na construção de interfaces."
+      },
+      {
+        "interesse_evento_curso": "Design Circuit",
+        "instituicao": "Apparicio Jr.",
+        "resumo_conhecimentos_interesses": "Curso de UX Design, abarcando todo o processo do UX."
+      }
+    ],
+    "no_que_me_destaco": [
+      {
+        "habilidade_ferramenta": "UI DESIGN",
+        "pontuacao": 9
+      },
+      {
+        "habilidade_ferramenta": "HTML",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "CSS",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT",
+        "pontuacao": 7
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB",
+        "pontuacao": 8
+      },
+      {
+        "habilidade_ferramenta": "REACT",
+        "pontuacao": 6
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE",
+        "pontuacao": 8
+      }
+    ]
+  }
+  
