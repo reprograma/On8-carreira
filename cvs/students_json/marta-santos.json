@@ -1,0 +1,151 @@
+{
+  "nome_completo": "Marta Maria dos Santos",
+  "o_que_eu_quero": "Desejo me desenvolver na área de TI, com finalidade de obter uma oportunidade, com o objetivo de mostrar os meus conhecimentos adquiridos.",
+  "cidade_estado:": "Pernambuco/PE",
+  "link_linkedin": "https://www.linkedin.com/in/marta-santos039/",
+  "link_github": "https://github.com/Mart0389",
+  "email": "martinha03luna@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou uma pessoa determinada que mesmo com todas as adversidades, vou atrás do que desejo. Também, sou uma pessoa responsável, possuo facilidade para aprender coisas novas, comunicativa e focada.",
+    "Sou Técnica em Mecânica Industrial pelo IFPE, e Técnica em Administração Empresarial pelo CODAI/UFRPE. Atualmente estou cursando o 6º período do curso de Gestão da Informação na UFPE e na Turma de Front End da {Reprograma}. Trabalho  na parte de frota da empresa Fedex Brasil S/A.",
+    "Gosto de ler todo o tipo de assunto, escutar músicas de todos os tipos, fazer pesquisas na internet sobre temas de inovações tecnológicas na área de saúde. Também gosto de me juntar com a minha família para assistir filmes e conversar.",
+    "Participar da {Reprograma}, foi um grande desafio para mim, pois aprender a desenvolver os códigos sem nunca antes ter tido nenhuma experiência foi bastante instigante e que me fez ter mais vontade ainda de obter mais conhecimentos sobre a área."
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Auxiliar de Frota",
+      "empresa": "Fedex Brasil Logística e Transporte S/A",
+      "periodo": "Mar/2013 - até o momento",
+      "atividades_desenvolvidas": 
+      "- Acompanhamento das manutenções dos veículos da frota;
+       - Lançamento de NF`s em sistema;
+       - Controle de entrada e saída dos veículos da manutenção;
+       - Controle da documentação dos veículos;
+       - Controle de pneus;
+       - Lançamento das manutenções em sistema.",
+      "link":"https://www.fedex.com/pt-br/home.html" 
+    },
+    {
+      "cargo_funcao": "Trabalho Voluntário - EVS Team Member Olympic Aquatics Stadium",
+      "empresa": "Comitê Olímpico RIO 2016",
+      "periodo": "Ago/2016 a Ago/2016",
+      "atividades_desenvolvidas": "Realizar recepção dos expectadores no Estádio Aquático, atendimento 
+      ao público",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estágio Técnico em Administração",
+      "empresa": "Instituto Federal de Pernambuco - IFPE",
+      "periodo": "Jan/2012 a Julh/2013",
+      "atividades_desenvolvidas": 
+      "- Atendimento aos alunos;
+       - Desenvolvimento das atividades administrativas internas;
+       - Elaboração de documentos;
+       - Oraganização de arquivos;
+       - Controle de entrada e saída da documentação.",
+      "link": "https://www.ifpe.edu.br/"
+    },
+    {
+      "cargo_funcao": "Estágio Técnico em Mecânica Industrial",
+      "empresa": "Alcoa Alumínio S/A",
+      "periodo": "Jan/2012 a Dez/2012",
+      "atividades_desenvolvidas": 
+      "- Controle diário das falhas dos materiais da área de laminados;
+       - Elaboração de relatório com as informações das falhas;
+       - Controle da qualidade dos produtos laminados;
+       - Preparação de amostras para serem analisadas no MEV (Microscópio Eletrônico de Varredura).",
+      "link": null
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Front End",
+      "instituicao": "{Reprograma}",
+      "periodo": "Dez/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "UX/UI, HTML, CSS, JavaScript, React"
+    },
+    {
+      "curso": "Graduação em Gestão da Informação",
+      "instituicao": "Universidade Federal de Pernambuco - UFPE",
+      "periodo": "Mar/2017 - cursando no momento",
+      "resumo_conhecimentos_aprendidos": 
+      "- Geração, análise, controle, acesso e utilização da informação;
+       - Consultoria e prestação de serviços de informação;
+       - Gerenciamento de unidades de informação;
+       - Gestão de recursos de informação de diversas naturezas;
+       - Tecnologias para o incremento do uso eficiente da informação."
+    },
+    {
+      "curso": "Técnico em Mecânica Industrial",
+      "instituicao": "Instituto Federal de Pernambuco - IFPE",
+      "periodo": "Abr/2007 a Dez/2010",
+      "resumo_conhecimentos_aprendidos": 
+      " - Elaboração de projetos de produtos, ferramentas, máquinas e equipamentos mecânicos;
+        - Planejar, aplicar e controlar procedimentos de instalação e de manutenção mecânica de máquinas;
+        - Controlar processos de fabricação; 
+        - Aplicar técnicas de medição e ensaios; 
+        - Especificar materiais para construção mecânica;
+        - Atuar na área de controle e automação."
+    },
+    {
+      "curso": "Técnico em Administração Empresarial",
+      "instituicao": "CODAI/UFRPE",
+      "periodo": "Fev/2010 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": 
+      " - Oferecer apoio administrativo para as áreas de RH, finanças, logística e administração geral;
+        - Preparar relatórios e planilhas;
+        - Prestar atendimento ao público interno e externo; 
+        - Fazer levantamento de dados e informações."
+      },
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso online de Inteligência Artificial para Iniciantes",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento dos conhecimentos básicos sobre IA"
+    },
+    {
+      "interesse_evento_curso": "Aprender lógica de programação usando Java",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Compreender os conceitos de lógica de programação, usando a linguagem java para desenvolver o aprendizado."
+    },
+    {
+      "interesse_evento_curso": "Gestão da Qualidade Total - QDM",
+      "instituicao": "Fedex Brasil Logística S/A",
+      "resumo_conhecimentos_interesses": "Entendimento dos conceitos de qualidade focados para o desenvolvimento de projetos."
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "PACOTE OFFICE",
+      },
+    {
+      "habilidade_ferramenta": "POWER BI",
+      },
+    {
+      "habilidade_ferramenta": "HTML",
+      },
+    {
+      "habilidade_ferramenta": "CSS",
+      },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      },
+    {
+      "habilidade_ferramenta": "REACT",
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+    }, 
+
+  ]
+}
