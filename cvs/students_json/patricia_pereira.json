@@ -1,0 +1,146 @@
+{
+  "nome_completo": "Patricia Pereira da Silva",
+  "o_que_eu_quero": "Me qualificar efetivamente e aplicar os aprendizados gradualmente focando no crescimento profissional",
+  "cidade_estado:": "São Paulo/SP",
+  "link_linkedin": "https://www.linkedin.com/in/patpesilva/",
+  "link_github": "https://github.com/patyline",
+  "email": "patpesilva@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou focada e curiosa, gosto muito da área da tecnologia e a diversidade que ela proporciona ",
+    "Formada em Serviço Social acabei entrando na área de gestão de projetos e tecnologia focada em EAD e acabei me apaixonando por esse mix de Educação e Tecnologia",
+    "Eu adoro ler e ver vídeos no Youtube focados em tecnologia, formas de aprendizagem, desenvolvimento pessoal e tudo que aguce a minha curiosidade",
+    "A Reprograma com certeza será para mim um divisor de águas, pois com ela estou me descobrindo e me desenvolvendo no pessoal e profissional"
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Analista de Projetos",
+      "empresa": "Fundação Vanzolini",
+      "periodo": "fev/2010 a atual",
+      "atividades_desenvolvidas": "Gestão de produção de material de apoio à realização de aulas online do Centro de Mídias do Estado de São Paulo, realizando a triagem do material enviado pelos professores e dando encaminhamento para produção após avaliação realizada pela equipe de direitos autorais.",
+      "link": "https://vanzolini.org.br/"
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Fundação Vanzolini",
+      "periodo": "mai/2008 a Dez/2009",
+      "atividades_desenvolvidas": "Acompanhamento e suporte aos formadores nos cursos, suporte aos monitores, elaboração de relatório dos encontros, atualização no site do curso, atendimento via Fale Conosco aos cursistas",
+      "link": "https://vanzolini.org.br/"
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp voltado para a inserção de mulheres na área de Tecnologia. O curso é organizado em 18 módulos e a cada final de módulo é entregue um mini projeto aonde teve: UX Design, HTML, CSS, Javascript, React, Git e Github "
+    },
+    {
+      "curso": "Especialização em Design Instrucional",
+      "instituicao": "SENAC-SP",
+      "periodo": "Jan/2015 a Dez/2016",
+      "resumo_conhecimentos_aprendidos": "Planejamento, desenvolvimento e validação de cursos on-line a serem oferecidos pela internet, em organizações públicas, privadas e de terceiro setor, de todos os níveis e formatos de ensino."
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Fundamentos do Javascript",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+    },
+    {
+      "interesse_evento_curso": "Lógica de Programação",
+      "instituicao": "Digital Innovation",
+      "resumo_conhecimentos_interesses": "Informações sobre lógica de programação"
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "SASS",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "JQUERY",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "NODE",
+      "pontuacao": 2
+    },
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "REACT",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "RESPONSIVIDADE",
+      "pontuacao": 9
+    },
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "WORDPRESS",
+      "pontuacao": 8
+    },
+    {
+      "habilidade_ferramenta": "PHP",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "MySQL",
+      "pontuacao": 1
+    },
+    {
+      "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "FTP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
+      "pontuacao": 4
+    },
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "ILUSTRATOR",
+      "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "INDESIGN",
+      "pontuacao": 5
+    }
+  ]
+}
