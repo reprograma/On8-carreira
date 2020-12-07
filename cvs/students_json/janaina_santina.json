@@ -1,0 +1,94 @@
+{
+  "nome_completo": "Janaina Santina Paulino Itikawa",
+  "o_que_eu_quero": "Trabalhar em uma empresa que utilize a tecnologia em favor das pessoas",
+  "cidade_estado:": "Santo André/SP",
+  "link_linkedin": "https://www.linkedin.com/in/janaina-santina-paulino/",
+  "link_github": "https://github.com/JanaPaulino",
+  "email": "janainasantinap@gmail.com",
+  "um_pouco_sobre_mim": [
+    "Sou graduada em Comunicação Social- habilitação em cinema e superior em roteiro cinematográfico pela Universidade Anhembi Morumbi",
+    "Gosto de cozinhar e receber os amigos e família, e passseios como ir a Pinacoteca, viajar, correr",
+    
+  ],
+  "no_que_ja_trabalhei": [
+    {
+      "cargo_funcao": "Professora",
+      "empresa": "ComMadre",
+      "periodo": "Out/2019 até o momento",
+      "atividades_desenvolvidas": "Preparação e execução de aula sobre diversidade étnico racial"
+    {
+      "cargo_funcao": "Agente de Atendimento II",
+      "empresa": "Serviço Social do Comércio",
+      "periodo": "out/2010 a Nov/2016",
+      "atividades_desenvolvidas": "Atendimento ao público, comunicação interna e externa, gestão de equipe(escala,ponto), acompanhamento de atividades, abertura e fechamento da casa, responsável pela carteira de clientes empresa, prospecção, ações de marketing, tratativa com rhs, métricas para gerenciamento das metas anuais.
+
+    }
+  ],
+  "o_que_ja_estudei": [
+    {
+      "curso": "UX Writing",
+      "instituicao": "Mergo",
+      "periodo": "nov/2020 a Dez/2020
+      "resumo_conhecimentos_aprendidos": "Boas práticas, prototipagem, semântica"
+    },
+    {
+      "curso": "UI Design",
+      "instituicao": "Uibooster",
+      "periodo": "out/2020 a Jan/2020",
+      "resumo_conhecimentos_aprendidos": "Elementos de UI design, hierarquia visual, tipografia, cores, wireframe, redesign,"
+    }
+  ],
+  "meus_outros_aprendizados_e_interesses": [
+    {
+      "interesse_evento_curso": "Curso acessibilidade em espaçoes culturai",
+      "instituicao": "Fundação Dorina Nowill para cegos",
+      "resumo_conhecimentos_interesses": "Conhecimentos sobre acessibilidade e impactos sociais"
+    },
+    {
+      "interesse_evento_curso": "Bootstrap",
+      "instituicao": "Origamid",
+      
+    }
+  ],
+  "no_que_me_destaco": [
+    {
+      "habilidade_ferramenta": "HTML",
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "CSS",
+      "pontuacao": 3
+    },
+    
+    {
+      "habilidade_ferramenta": "JAVASCRIPT",
+      "pontuacao": 5
+    },
+
+   
+    {
+      "habilidade_ferramenta": "GIT/GITHUB",     
+       "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "BOOTSTRAP",
+      "pontuacao": 5
+    },
+    
+    {
+      "habilidade_ferramenta": "METODOLOGIAS ÁGEIS",
+      "pontuacao": 5
+    },
+   
+    {
+      "habilidade_ferramenta": "UX DESIGN",
+      "pontuacao": 8
+    },
+      
+    {
+      "habilidade_ferramenta": "PHOTOSHOP",
+      "pontuacao": 9
+    },
+    
+    ]
+}
