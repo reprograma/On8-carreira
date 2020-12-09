@@ -1,0 +1,86 @@
+{
+    "nome_completo": "Arine Santana Daltro",
+    "o_que_eu_quero": "Desejo ser uma desenvolvedora de exelência ",
+    "cidade_estado:": "Pernambuco/PE",
+    "link_linkedin": "https://www.linkedin.com/in/arine-daltro",
+    "link_github": "https://github.com/arine-daltro",
+    "email": "arinedaltro@hotmail.com",
+    "um_pouco_sobre_mim": [
+        "Sou uma pessoa organizada e observadora.",
+        "Recentemenete me sentir desafiada a mudar de carreira e conhecer de outra maneira",
+        "o mundo tecnológico e o quanto ele pode mudar a vida das pessoas.",
+        "Desde então, tenho me esforçado para cada vez mais aprender a programar,",
+        "estudando e dialogando com pessoas que ja fazem parte desse mundo."
+    ],
+    "no_que_ja_trabalhei": [
+      {
+        "cargo_funcao": "Professora Educação Infantil e Fundamental I",
+        "empresa": "Escola Batista Getsêmane",
+        "periodo": "Jan/2011 a Dez/2016",
+        "atividades_desenvolvidas": "Acompanhar, orientar e auxiliar crianças de 3 a 10 anos, através de atividades lúdicas e pedagógicas",
+        "link": null
+      },
+      {
+        "cargo_funcao": "Coordenadora Pedagógica",
+        "empresa": "Escola Batista Getsêmane",
+        "periodo": "Jan/2017 a Mar/2020",
+        "atividades_desenvolvidas": "Estreitar a relação entre familia e escola, atráves de projetos e reuniões. Auxiliar os professores na prática escolar, formação continuada entre outras atividades.",
+        "link": null
+      }
+    ],
+    "o_que_ja_estudei": [
+      {
+        "curso": "Front-End",
+        "instituicao": "Reprograma",
+        "periodo": "Ago/2020 a Dez/2020",
+        "resumo_conhecimentos_aprendidos": "UX/UI, Github, HTML, CSS, JavaScript e React"
+      },
+      {
+        "curso": "Pedagogia",
+        "instituicao": "Unime - União Metropolitana de Educação e cultura ",
+        "periodo": "Jun/2014 a Dez/2018",
+        "resumo_conhecimentos_aprendidos": "Desenvolver visão critica e conpreender o funcionamento da comunidade escolar"
+      }
+    ],
+    "meus_outros_aprendizados_e_interesses": [
+      {
+        "interesse_evento_curso": "Curso online de React",
+        "instituicao": "Digital Innovation One",
+        "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do React"
+      },
+      {
+        "interesse_evento_curso": "Node.js",
+        "instituicao": "Digital Innovation One",
+        "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do Node,js"
+      }
+    ],
+    "no_que_me_destaco": [
+
+      {
+        "habilidade_ferramenta": "HTML"
+      },
+      {
+        "habilidade_ferramenta": "CSS"
+      },
+      {
+        "habilidade_ferramenta": "JAVASCRIPT"
+      },
+      {
+        "habilidade_ferramenta": "GIT/GITHUB"
+      },
+      {
+        "habilidade_ferramenta": "REACT"
+      },
+      {
+        "habilidade_ferramenta": "RESPONSIVIDADE"
+      },
+      {
+        "habilidade_ferramenta": "UX DESIGN"
+      },
+      {
+        "habilidade_ferramenta": "WORDPRESS"
+      }
+     
+    ]
+}
+  
